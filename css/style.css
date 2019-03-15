@@ -276,6 +276,7 @@ background-color: pink;
         height: 280px !important;
         width: 100%;
     }
+    
 }
 @media (max-width:492px){
     .carousel-caption{
@@ -301,4 +302,3 @@ background-color: pink;
        width: 100%;
    }
 }
-   
