@@ -249,5 +249,56 @@ background-color: pink;
       margin-top: 0px;
       padding-top: 10px;
   }
- 
+  .tes {
+      text-align: center;
+  }
+
+  @media (max-width:990px){
+    .what{
+      margin-left: 80px;
+         }
+    }
+    /* @media (min-width:411px and max-width:665px){
+        .carousel-caption{
+            top: 550px;
+        } 
+        
+    }
+     */
+     @media (max-width:411px){
+     .carousel-caption{
+        top: 50px;
+    } 
+    .pandt{
+        margin-top: -300px;
+    }
+    .blahmm {
+        height: 280px !important;
+        width: 100%;
+    }
+}
+@media (max-width:492px){
+    .carousel-caption{
+       top: 50px;
+   } 
+   .pandt{
+       margin-top: -300px;
+   }
+   .blahmm {
+       height: 280px !important;
+       width: 100%;
+   }
+}
+@media (max-width:360px){
+    .carousel-caption{
+       top: 50px;
+   } 
+   .pandt{
+       margin-top: -300px;
+   }
+   .blahmm {
+       height: 280px !important;
+       width: 100%;
+   }
+}
    
